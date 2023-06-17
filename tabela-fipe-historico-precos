@@ -1,0 +1,2 @@
+$ git add .
+# Adds the file to your local repository and stages it for commit. Para cancelar o preparo de um arquivo, use 'git reset HEAD ARQUIVO'.
